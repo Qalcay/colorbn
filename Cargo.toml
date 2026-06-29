@@ -1,0 +1,12 @@
+[package]
+name = "cbnum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ab_glyph = "0.2.32"
+base64 = "0.22.1"
+image = "0.25.10"
+imageproc = "0.27.0"
+kmeans_colors = "0.7.1"
+palette = "0.7.6"
